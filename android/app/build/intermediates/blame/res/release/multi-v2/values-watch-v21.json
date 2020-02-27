@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/fabio_oliveira/Área de Trabalho/calculadora/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/fabio_oliveira/.gradle/caches/transforms-2/files-2.1/117755ccbcdee2ada22b66e3d480e9bc/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

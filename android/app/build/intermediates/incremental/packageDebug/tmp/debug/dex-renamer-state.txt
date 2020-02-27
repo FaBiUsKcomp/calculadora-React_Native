@@ -1,0 +1,4 @@
+#Wed Feb 26 10:38:08 BRT 2020
+base.0=/home/fabio_oliveira/Área de Trabalho/calculadora/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
